@@ -1,0 +1,38 @@
+{
+  "edbcf79d-8615-4f7f-8c41-25adb67528be": {
+    "username": "Commuwunism",
+    "lastCheckTime": 1726250495400,
+    "lastActiveTime": 1726250487310,
+    "totalActiveTime": 1189155,
+    "totalAfkTime": 2612607,
+    "isAfk": true,
+    "lastKnownPosition": {
+      "x": 65.12077859644941,
+      "y": 68.0,
+      "z": -31.762975417701504
+    },
+    "lastKnownRotation": {
+      "x": -0.660018801689148,
+      "y": -0.022432588040828705,
+      "z": 0.7509112358093262
+    }
+  },
+  "edbcf79d-8615-4f7f-8c41-25adb67528bf": {
+    "username": "Test",
+    "lastCheckTime": 1726248657894,
+    "lastActiveTime": 1726248652744,
+    "totalActiveTime": 1010691,
+    "totalAfkTime": 2389166,
+    "isAfk": true,
+    "lastKnownPosition": {
+      "x": 65.12077859644941,
+      "y": 68.0,
+      "z": -31.762975417701504
+    },
+    "lastKnownRotation": {
+      "x": -0.7367348670959473,
+      "y": -0.019844572991132736,
+      "z": 0.6758876442909241
+    }
+  }
+}

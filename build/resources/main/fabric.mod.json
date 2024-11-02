@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "time-tracker",
-	"version": "1.0.4",
+	"version": "1.0.4-1.21.3",
 	"name": "Time Tracker",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [

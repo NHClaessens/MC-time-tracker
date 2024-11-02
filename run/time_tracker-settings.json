@@ -1,6 +1,6 @@
 {
   "afkTimeoutMinutes": 0.03,
   "countLookingAroundAsActive": true,
-  "logAfkStatus": true,
-  "runEveryNTicks": 1
+  "logAfkStatus": false,
+  "runEveryNTicks": 10
 }

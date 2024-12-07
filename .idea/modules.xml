@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MC-time-tracker.client.iml" filepath="$PROJECT_DIR$/.idea/modules/MC-time-tracker.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MC-time-tracker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MC-time-tracker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MC-time-tracker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MC-time-tracker.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time-tracker.client.iml" filepath="$PROJECT_DIR$/.idea/modules/Time-tracker.client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time-tracker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Time-tracker.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time-tracker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Time-tracker.test.iml" />

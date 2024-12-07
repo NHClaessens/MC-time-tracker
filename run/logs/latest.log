@@ -1,5 +1,5 @@
-[17:59:25] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[17:59:25] [main/INFO] (FabricLoader) Loading 43 mods:
+[15:03:35] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[15:03:35] [main/INFO] (FabricLoader) Loading 43 mods:
 	- fabric-api 0.107.0+1.21.3
 	- fabric-api-base 0.4.49+d21566ae40
 	- fabric-api-lookup-api-v1 1.6.79+c47b9d4340
@@ -42,31 +42,27 @@
 	- java 21
 	- minecraft 1.21.3
 	- mixinextras 0.4.1
-	- time-tracker 1.0.4
-[17:59:26] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/nils/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:59:26] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[17:59:26] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[17:59:26] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:59:34] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:59:35] [main/INFO] (Minecraft) Loaded 1337 recipes
-[17:59:35] [main/INFO] (Minecraft) Loaded 1448 advancements
-[17:59:35] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 931.1 μs
-[17:59:35] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.3
-[17:59:35] [Server thread/INFO] (Minecraft) Loading properties
-[17:59:35] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[17:59:35] [Server thread/INFO] (Minecraft) Generating keypair
-[17:59:36] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
-[17:59:36] [Server thread/INFO] (Minecraft) Using default channel type
-[17:59:36] [Server thread/INFO] (Minecraft) Preparing level "world"
-[17:59:36] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[17:59:37] [Worker-Main-4/INFO] (Minecraft) Preparing spawn area: 0%
-[17:59:37] [Worker-Main-4/INFO] (Minecraft) Preparing spawn area: 0%
-[17:59:37] [Worker-Main-4/INFO] (Minecraft) Preparing spawn area: 0%
-[17:59:37] [Server thread/INFO] (Minecraft) Time elapsed: 1133 ms
-[17:59:37] [Server thread/INFO] (Minecraft) Done (1.453s)! For help, type "help"
-[17:59:41] [User Authenticator #1/INFO] (Minecraft) UUID of player Commuwunism is edbcf79d-8615-4f7f-8c41-25adb67528be
-[17:59:43] [Server thread/INFO] (Minecraft) Commuwunism[/127.0.0.1:51446] logged in with entity id 98 at (65.12077859644941, 68.0, -31.762975417701504)
-[17:59:43] [Server thread/INFO] (Minecraft) Commuwunism joined the game
-[17:59:50] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[18:00:22] [Server thread/INFO] (Minecraft) Commuwunism lost connection: Disconnected
-[18:00:22] [Server thread/INFO] (Minecraft) Commuwunism left the game
+	- time-tracker 1.0.4-1.21.3
+[15:03:35] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/nils/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:03:35] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[15:03:35] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[15:03:36] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:03:41] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:03:43] [main/INFO] (Minecraft) Loaded 1337 recipes
+[15:03:43] [main/INFO] (Minecraft) Loaded 1448 advancements
+[15:03:43] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 936.3 μs
+[15:03:43] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.3
+[15:03:43] [Server thread/INFO] (Minecraft) Loading properties
+[15:03:43] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[15:03:43] [Server thread/INFO] (Minecraft) Generating keypair
+[15:03:43] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
+[15:03:43] [Server thread/INFO] (Minecraft) Using default channel type
+[15:03:43] [Server thread/INFO] (Minecraft) Preparing level "world"
+[15:03:43] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[15:03:45] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[15:03:45] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[15:03:45] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[15:03:45] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[15:03:45] [Server thread/INFO] (Minecraft) Time elapsed: 1727 ms
+[15:03:45] [Server thread/INFO] (Minecraft) Done (2.036s)! For help, type "help"
+[15:04:45] [Server thread/INFO] (Minecraft) Server empty for 60 seconds, pausing
